@@ -49,6 +49,7 @@ python main.py
 The program will extract the answers from the image, compare them with the predefined answers, calculate a score, and assign a grade. The feedback and grade will be displayed in the console.
 
 Example Output:
+https://github.com/tanishka-kaur09/OCR-Model-project/blob/main/Screenshot%202025-03-12%20223430.png
 
 Limitations: Currently, only answers in the form of A, B, C, or D are supported. Future updates will enhance the functionality to handle more complex answer sheets and handwritten text
 

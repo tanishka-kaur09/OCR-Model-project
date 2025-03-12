@@ -3,10 +3,15 @@ OCR based Answer Extraction and Grading System.
 Welcome to the Answer Extraction and Grading System! This Python-based project uses Optical Character Recognition (OCR) to read multiple-choice answer sheets and evaluate them. It compares extracted answers with the predefined correct answers, calculates a score, and provides feedback with a grade.
 
 Features:
-Text Extraction with OCR: The project uses Tesseract OCR to extract text from images of answer sheets.
-Answer Parsing: It identifies and pulls out multiple-choice answers (like A, B, C, D) from the OCR output.
-Score Calculation: The system compares extracted answers with predefined correct answers and calculates a score.
+
+Text Extraction with OCR: 
+The project uses Tesseract OCR to extract text from images of answer sheets.
+Answer Parsing: 
+It identifies and pulls out multiple-choice answers (like A, B, C, D) from the OCR output.
+Score Calculation: 
+The system compares extracted answers with predefined correct answers and calculates a score.
 Grading System: Based on the score, the program assigns a grade (A, B, or C) and provides feedback.
+
 Tech Stack 💻
 This project is built with the following Python libraries:
 
@@ -17,6 +22,7 @@ Matplotlib: For visualizing or debugging images and text extraction (optional, c
 Regular Expressions (re): For parsing answers from the extracted text.
 
 Installation :
+
 Clone the repository:
 git clone https://github.com/yourusername/project-name.git
 cd project-name
@@ -40,6 +46,7 @@ Linux: Install via package manager: sudo apt install tesseract-ocr.
 After installation, make sure to set the Tesseract executable path in your script (if required).
 
 Usage
+
 Prepare the image: Place the image containing the answer sheet in the images/ folder. The image should have clear, typed answers (works best with typed text for now).
 
 Update the image path: Modify the image_path variable in the script to point to your image file.

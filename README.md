@@ -1,4 +1,5 @@
-OCR based Answer Extraction and Grading System
+OCR based Answer Extraction and Grading System.
+
 Welcome to the Answer Extraction and Grading System! This Python-based project uses Optical Character Recognition (OCR) to read multiple-choice answer sheets and evaluate them. It compares extracted answers with the predefined correct answers, calculates a score, and provides feedback with a grade.
 
 Features:

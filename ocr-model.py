@@ -64,11 +64,10 @@ if __name__ == "__main__":
 
     #-----------------list of images -----------------------
     
-    # image_path="images/Screenshot 2024-12-09 180353.png" #case1: all answers are correct
-    # image_path="images/Screenshot 2024-12-09 181050.png" #case2: all answers are incorrect
-    # image_path="images/Screenshot 2024-12-09 180906.png" #case3: some of them are incorrect
-    image_path="images/Screenshot 2024-12-03 215514.png" #case4: some answers are skipped
-    # image_path="images/Screenshot 2024-12-16 125634.png" 
+    # image_path="Screenshot 2025-03-12 230157.png" #case1: all answers are correct
+    # image_path="Screenshot 2025-03-12 230215.png" #case2: all answers are incorrect
+    # image_path="Screenshot 2025-03-12 230207.png" #case3: some of them are incorrect
+    image_path="Screenshot 2025-03-12 230118.png" #case4: some answers are skipped
 
 
     # Extract text from image

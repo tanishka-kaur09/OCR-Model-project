@@ -16,9 +16,13 @@ Tech Stack 💻
 This project is built with the following Python libraries:
 
 OpenCV: For image processing (e.g., converting images to grayscale, thresholding).
+
 pytesseract: The magic behind extracting text from images using OCR.
+
 NumPy: For handling arrays and performing mathematical operations (useful for image processing).
+
 Matplotlib: For visualizing or debugging images and text extraction (optional, can be expanded in future).
+
 Regular Expressions (re): For parsing answers from the extracted text.
 
 Installation :
